@@ -1,0 +1,26 @@
+localhost:4200
+
+cd bytebank
+
+ng serve
+
+ng s -o = Inicia o servidor e abre uma janela no navegador.
+
+http://localhost:4200
+
+
+
+
+
+
+
+
+localhost:3000
+
+cd bytebank
+
+cd dados
+
+json-server --watch db.json
+
+http://localhost:3000/transferencias
